@@ -101,7 +101,7 @@ echo "[$variabe_name:]<b>$config_value</b><br>";
 </header>
 
                     <div class="post-description">
-                        <form action="results_vnext.php" method="post">
+                        <form action="results.php" method="post">
                             <p>1. What is your favorite Azure Websites feature? <br><input type="text" name="q1" /></p>
                             <p>2. How would you improve the magic? <br><input type="text" name="q2" /></p>
                             <!--<p>3. What is your favorite project?<br> <input type="text" name="q3" /></p>-->
